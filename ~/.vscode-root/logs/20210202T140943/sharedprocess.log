@@ -1,0 +1,17 @@
+[2021-02-02 14:09:47.807] [sharedprocess] [info] main {"machineId":"bd2fadbda2df69bc06a6440c19509440f557a16db5a27971927c8ae629c40283","windowId":2}
+[2021-02-02 14:09:48.007] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/opt/lampp/htdocs/beautycare/~/.vscode-root/User/snippets'
+[2021-02-02 14:09:48.254] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh-edit-nightly /home/hasbi/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-nightly-2021.1.19621
+[2021-02-02 14:09:48.292] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh-nightly /home/hasbi/.vscode/extensions/ms-vscode-remote.remote-ssh-nightly-2021.1.19621
+[2021-02-02 14:09:50.064] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit-nightly
+[2021-02-02 14:09:50.067] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-nightly
+[2021-02-02 14:09:51.332] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit-nightly undefined
+[2021-02-02 14:09:51.376] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-nightly undefined
+[2021-02-02 14:09:51.418] [sharedprocess] [info] Extracted extension to /home/hasbi/.vscode/extensions/.ms-vscode-remote.remote-ssh-edit-nightly-2021.2.900: ms-vscode-remote.remote-ssh-edit-nightly
+[2021-02-02 14:09:51.419] [sharedprocess] [info] Renamed to /home/hasbi/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-nightly-2021.2.900
+[2021-02-02 14:09:51.422] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh-edit-nightly
+[2021-02-02 14:09:51.434] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh-edit-nightly
+[2021-02-02 14:09:51.681] [sharedprocess] [info] Extracted extension to /home/hasbi/.vscode/extensions/.ms-vscode-remote.remote-ssh-nightly-2021.2.901: ms-vscode-remote.remote-ssh-nightly
+[2021-02-02 14:09:51.682] [sharedprocess] [info] Renamed to /home/hasbi/.vscode/extensions/ms-vscode-remote.remote-ssh-nightly-2021.2.901
+[2021-02-02 14:09:51.683] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh-nightly
+[2021-02-02 14:09:51.702] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh-nightly
+[2021-02-02 14:10:27.858] [sharedprocess] [info] Starting to clean up unused language packs.
